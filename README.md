@@ -6,7 +6,7 @@ The way VS Code dark theme was day one, before they broke it, claimed my screens
 
 NEVER GIVE UP, NEVER SURRENDER.
 
-Adds two themes, Dark OG and Dark OG Desat.
+Adds two themes, Dark OG and Dark OG Desat. The Desat version has had its colours desaturated by 8%.
 
 # Example: HTML
 
