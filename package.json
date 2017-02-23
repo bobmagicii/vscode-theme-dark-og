@@ -1,7 +1,7 @@
 {
 	"name": "theme-dark-og",
 	"displayName": "VS Code Dark OG",
-	"description": "I Shall Not Yield. I'm looking at you, aeschli.",
+	"description": "The way the Dark theme was day one.",
 	"version": "1.0.0",
 	"publisher": "bobmagicii",
 	"icon": "images/icon.png",
@@ -26,9 +26,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "VS Code Original Dark",
+				"label": "Dark OG",
 				"uiTheme": "vs-dark",
 				"path": "themes/dark-og.tmTheme"
+			},
+			{
+				"label": "Dark OG Desat",
+				"uiTheme": "vs-dark",
+				"path": "themes/dark-og-desat.tmTheme"
 			}
 		]
 	}
