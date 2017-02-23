@@ -1,0 +1,35 @@
+{
+	"name": "theme-dark-og",
+	"displayName": "VS Code Dark OG",
+	"description": "I Shall Not Yield. I'm looking at you, aeschli.",
+	"version": "1.0.0",
+	"publisher": "bobmagicii",
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#413d3d",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"license": "BSD-2-Clause",
+	"bugs": {
+		"url": ""
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bobmagicii/vscode-theme-dark-og"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "VS Code Original Dark",
+				"uiTheme": "vs-dark",
+				"path": "themes/dark-og.tmTheme"
+			}
+		]
+	}
+}
