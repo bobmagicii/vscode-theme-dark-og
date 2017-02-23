@@ -18,10 +18,11 @@ extends AnotherSweetThing {
 		if($Max < 1)
 		throw new Exception('Max must be greater than 1.');
 
-		for($Iter = 1; $iter <= $Max; $Iter++)
+		for($Iter = 1; $Iter <= $Max; $Iter++)
 		echo "{$Iter} ah ah ah", PHP_EOL;
 
 		return;
 	}
 
 }
+
