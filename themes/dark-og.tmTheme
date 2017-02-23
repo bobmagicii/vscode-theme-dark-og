@@ -51,6 +51,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>String Variables</string>
+			<key>scope</key>
+			<string>meta.string-contents.quoted.double.php variable.other.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A8765E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Number</string>
 			<key>scope</key>
 			<string>constant.numeric</string>
@@ -286,10 +297,10 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.dark.dark-og</string>
 	<key>author</key>
 	<string>bobmagicii</string>
 	<key>comment</key>
-	<string>From the very first days of VS Code before they broke Dark and Added Dark+ puke. I WILL NEVER YIELD.</string>
+	<string>The way VS Code dark theme was day one, before they broke it, claimed my screenshots were not real, added the puke that is Dark+, and deleted all bugs referencing it on Github.</string>
 </dict>
 </plist>
