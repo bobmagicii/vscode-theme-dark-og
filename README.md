@@ -9,13 +9,13 @@ NEVER GIVE UP, NEVER SURRENDER.
 
 # Example: HTML
 
-![HTML](https://raw.githubusercontent.com/bobmagicii/vscode-theme-reed-alert/master/images/ex-html.png)
+![HTML](https://raw.githubusercontent.com/bobmagicii/vscode-theme-dark-og/master/images/ex-html.png)
 
 # Example: Javascript
 
-![Javascript](https://raw.githubusercontent.com/bobmagicii/vscode-theme-reed-alert/master/images/ex-javascript.png)
+![Javascript](https://raw.githubusercontent.com/bobmagicii/vscode-theme-dark-og/master/images/ex-javascript.png)
 
 # Example: PHP
 
-![Javascript](https://raw.githubusercontent.com/bobmagicii/vscode-theme-reed-alert/master/images/ex-php.png)
+![Javascript](https://raw.githubusercontent.com/bobmagicii/vscode-theme-dark-og/master/images/ex-php.png)
 
