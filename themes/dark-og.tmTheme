@@ -27,17 +27,8 @@
 				<string>#4D4D4D</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>Comment</string>
-			<key>scope</key>
-			<string>comment</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#5E874C</string>
-			</dict>
-		</dict>
+
+		<!-- STRINGS N SHIT IN STRINGS -->
 		<dict>
 			<key>name</key>
 			<string>String</string>
@@ -58,6 +49,34 @@
 			<dict>
 				<key>foreground</key>
 				<string>#A8765E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String Regex Escapes</string>
+			<key>scope</key>
+			<string>
+				string.regexp.single-quoted keyword.operator.regexp,
+				string.regexp.single-quoted constant.character.escape,
+				string.regexp.double-quoted keyword.operator.regexp,
+				string.regexp.double-quoted constant.character.escape
+			</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A8765E</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#5E874C</string>
 			</dict>
 		</dict>
 		<dict>

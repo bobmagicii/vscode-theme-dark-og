@@ -27,17 +27,8 @@
 				<string>#4D4D4D</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>Comment</string>
-			<key>scope</key>
-			<string>comment</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#617f54ff</string>
-			</dict>
-		</dict>
+
+		<!-- STRINGS N SHIT IN STRINGS -->
 		<dict>
 			<key>name</key>
 			<string>String</string>
@@ -51,13 +42,41 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>String Variables</string>
+			<string>String Evaluations</string>
 			<key>scope</key>
-			<string>meta.string-contents.quoted.double.php variable.other.php</string>
+			<string>meta.string-contents.quoted.double variable.other.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#9e7968ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String Regex Escapes</string>
+			<key>scope</key>
+			<string>
+				string.regexp.single-quoted keyword.operator.regexp,
+				string.regexp.single-quoted constant.character.escape,
+				string.regexp.double-quoted keyword.operator.regexp,
+				string.regexp.double-quoted constant.character.escape
+			</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9e7968ff</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#617f54ff</string>
 			</dict>
 		</dict>
 		<dict>
