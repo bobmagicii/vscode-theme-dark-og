@@ -22,7 +22,7 @@
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#353535</string>
+				<string>#2A2A2A</string>
 				<key>selection</key>
 				<string>#4D4D4D</string>
 			</dict>
@@ -59,7 +59,11 @@
 				string.regexp.single-quoted keyword.operator.regexp,
 				string.regexp.single-quoted constant.character.escape,
 				string.regexp.double-quoted keyword.operator.regexp,
-				string.regexp.double-quoted constant.character.escape
+				string.regexp.double-quoted constant.character.escape,
+				meta.string-contents.quoted.single keyword.operator.regexp,
+				meta.string-contents.quoted.single constant.character.escape,
+				meta.string-contents.quoted.double keyword.operator.regexp,
+				meta.string-contents.quoted.double constant.character.escape
 			</string>
 			<key>settings</key>
 			<dict>
