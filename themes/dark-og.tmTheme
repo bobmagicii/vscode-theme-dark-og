@@ -53,7 +53,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>String Regex Escapes</string>
+			<string>String Escapes</string>
 			<key>scope</key>
 			<string>
 				string.regexp.single-quoted keyword.operator.regexp,
@@ -63,7 +63,13 @@
 				meta.string-contents.quoted.single keyword.operator.regexp,
 				meta.string-contents.quoted.single constant.character.escape,
 				meta.string-contents.quoted.double keyword.operator.regexp,
-				meta.string-contents.quoted.double constant.character.escape
+				meta.string-contents.quoted.double constant.character.escape,
+				string.quoted.double keyword.operator.regexp,
+				string.quoted.double constant.character.escape,
+				string.quoted.double variable.other,
+				string.quoted.single variable.other,
+				string.quoted.single keyword.operator.regexp,
+				string.quoted.single constant.character.escape
 			</string>
 			<key>settings</key>
 			<dict>
